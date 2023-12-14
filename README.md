@@ -22,7 +22,7 @@
 
 ### Как со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/@VadimTolstov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Veremeioleg)
+[![Telegram](https://img.shields.io/badge/@Veremeioleg-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Veremeioleg)
 </a>
 <a href="mailto:veremeioleg@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
